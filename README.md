@@ -13,6 +13,22 @@ A Roadmap is a way of organising our development journey so that the community c
 development procedure.
 You can read through our roadmap [here](/roadmap.md)
 
+### VIRTUAL CONFERENCE
+We had our first ever online Virtual event to launch the OSCA KAMPALA chapter on Friday June/18/2021.
+The guest speaker for that event was our very own Aanyu Deborah Oduman, who talked about Open Source,
+how to get started and all the benefits involved.
+![Deborah](/OSCADevs/Deborah.png)
+Some of here presentation slides are given [here](https://github.com/oscakampala/OSCA-presentation-slides)
+More virtual conferences are yet to be organized to address the members of the community on the best way
+to build up the community.
+
+### MENTORSHIP
+Some of the community members in OSCA KAMPALA chapter are very new to some forms of technology.
+On that note, the OSCA Team is coming up with best measure to provided free mentorship sessions to the members
+of the community in order to bake them and make them ready to start contributing to leading open source projects.
+Not only are they to contribute to open source, but the skills they acquire shall also be valuable to them for the 
+sake of getting employed in the technology sector.
+
 ### MADE IN UGANDA
 We are making a curated list of developers in Uganda and the projects they are working on.
 The curated list is going to be a central repository for the Ugandan made software. This will
@@ -28,7 +44,7 @@ and description of your project in an md file and save it.
 4. after evaluation, your pull request shall be merged into the main branch
 
 ### PROJECT REQUEST
-If you have a project idea and you would really like to put out out there so that you can get a group of members to help you out with it,
+If you have a project idea and you would really like to put it out there so that you can get a group of members to help you out with it,
 you can create a **PROJECT REQUEST**
 For now, The procedure for making a project request is not yet defined. However, discussion on how to go about it shall be 
 carried out for our social media platforms. you can find our link tree [here](https://bit.ly/2TJkBy8) which contain all links to
@@ -52,3 +68,4 @@ Below are some of our community members.
 ![ninth](/OSCADevs/ninth.png)
 ![tenth](/OSCADevs/tenth.png)
 ![eleventh](/OSCADevs/eleventh.png)
+![twelveth](/OSCADevs/twelveth.png)
