@@ -25,7 +25,7 @@ to build up the community.
 ### MENTORSHIP
 Some of the community members in OSCA KAMPALA chapter are very new to some forms of technology.
 On that note, the OSCA Team is coming up with best measures to provide free mentorship sessions to the members
-of the community in order to nurture and get them ready to start contributing and leading open source projects.
+of the community in order to nurture and get them ready to start contributing to leading open source projects.
 Not only are they to contribute to open source, but the skills they acquire shall also be valuable to them for the 
 sake of getting employed in the technology sector.
 
