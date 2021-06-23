@@ -18,14 +18,14 @@ We had our first ever online Virtual event to launch the OSCA KAMPALA chapter on
 The guest speaker for that event was our very own Aanyu Deborah Oduman, who talked about Open Source,
 how to get started and all the benefits involved.
 ![Deborah](/OSCADevs/Deborah.png)
-Some of here presentation slides are given [here](https://github.com/oscakampala/OSCA-presentation-slides)
+Some of her presentation slides are given [here](https://github.com/oscakampala/OSCA-presentation-slides)
 More virtual conferences are yet to be organized to address the members of the community on the best way
 to build up the community.
 
 ### MENTORSHIP
 Some of the community members in OSCA KAMPALA chapter are very new to some forms of technology.
-On that note, the OSCA Team is coming up with best measure to provide free mentorship sessions to the members
-of the community in order to bake them and make them ready to start contributing to leading open source projects.
+On that note, the OSCA Team is coming up with best measures to provide free mentorship sessions to the members
+of the community in order to nurture and get them ready to start contributing and leading open source projects.
 Not only are they to contribute to open source, but the skills they acquire shall also be valuable to them for the 
 sake of getting employed in the technology sector.
 
