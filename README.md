@@ -24,7 +24,7 @@ to build up the community.
 
 ### MENTORSHIP
 Some of the community members in OSCA KAMPALA chapter are very new to some forms of technology.
-On that note, the OSCA Team is coming up with best measure to provided free mentorship sessions to the members
+On that note, the OSCA Team is coming up with best measure to provide free mentorship sessions to the members
 of the community in order to bake them and make them ready to start contributing to leading open source projects.
 Not only are they to contribute to open source, but the skills they acquire shall also be valuable to them for the 
 sake of getting employed in the technology sector.
@@ -36,18 +36,18 @@ act as a catalogue to showcase the various projects that the community is workin
 This list shall be contained in the made-in-uganda repository which you can find [here](https://github.com/oscakampala/made-in-uganda)
 
 ##### Adding to the central repository
-Here are the instructions for you to make an orderly edit to the made-in-uganda repository
+Here are the instructions for you to make an orderly edit to the made-in-uganda repository.
 1. First,the made-in-uganda repository will contain the list in form of md files. Write a proper presentation 
 and description of your project in an md file and save it.
-2. Secondly, fork the made-in-uganda repository and add the md file into that repository on your account
-3. create a pull request to the central made-in-uganda repository.
-4. after evaluation, your pull request shall be merged into the main branch
+2. Secondly, fork the made-in-uganda repository and add the md file into that repository on your account.
+3. Create a pull request to the central made-in-uganda repository.
+4. After evaluation, your pull request shall be merged into the main branch.
 
 ### PROJECT REQUEST
 If you have a project idea and you would really like to put it out there so that you can get a group of members to help you out with it,
 you can create a **PROJECT REQUEST**
 For now, The procedure for making a project request is not yet defined. However, discussion on how to go about it shall be 
-carried out for our social media platforms. you can find our link tree [here](https://bit.ly/2TJkBy8) which contain all links to
+carried out for our social media platforms. You can find our link tree [here](https://bit.ly/2TJkBy8) which contains all links to
 our social media platforms.
 
 ### ABOUT THE DEVELOPERS 
