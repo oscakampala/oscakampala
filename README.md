@@ -18,7 +18,7 @@ We had our first ever online Virtual event to launch the OSCA KAMPALA chapter on
 The guest speaker for that event was our very own Aanyu Deborah Oduman, who talked about Open Source,
 how to get started and all the benefits involved.
 ![Deborah](/OSCADevs/Deborah.png)
-Some of her presentation slides are given [here](https://github.com/oscakampala/OSCA-presentation-slides)
+Some of her presentation slides are given [here](https://github.com/oscakampala/oscakampala/blob/main/OSCA-presentation-slides/OSCA%20Kampala%20%231.pptx)
 More virtual conferences are yet to be organized to address the members of the community on the best way
 to build up the community.
 
