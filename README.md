@@ -33,7 +33,7 @@ sake of getting employed in the technology sector.
 We are making a curated list of developers in Uganda and the projects they are working on.
 The curated list is going to be a central repository for the Ugandan made software. This will
 act as a catalogue to showcase the various projects that the community is working on.
-This list shall be contained in the made-in-uganda repository which you can find [here](https://github.com/oscakampala/made-in-uganda)
+This list shall be contained in the made-in-uganda repository which you can find [here](https://github.com/OSCA-Kampala-Chapter/made-in-uganda)
 
 ##### Adding to the central repository
 Here are the instructions for you to make an orderly edit to the made-in-uganda repository.
@@ -47,7 +47,7 @@ and description of your project in an md file and save it.
 If you have a project idea and you would really like to put it out there so that you can get a group of members to help you out with it,
 you can create a **PROJECT REQUEST**
 For now, The procedure for making a project request is not yet defined. However, discussion on how to go about it shall be 
-carried out for our social media platforms. You can find our link tree [here](https://bit.ly/2TJkBy8) which contains all links to
+carried out for our social media platforms. You can find our website  [here](https://oscakampala.org) which contains all links to
 our social media platforms.
 
 ### ABOUT THE DEVELOPERS 
